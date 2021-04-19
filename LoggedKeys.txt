@@ -1,0 +1,14 @@
+
+'e' pressed
+'a' pressed
+'t' pressed
+Key.space pressed
+'a' pressed
+Key.space pressed
+'b' pressed
+'a' pressed
+'n' pressed
+'a' pressed
+'n' pressed
+'a' pressed
+Key.esc pressed
